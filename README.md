@@ -1,0 +1,2 @@
+# nginxCfg_to_CaddyCfg
+将nginx.conf规则自动转成Caddy2规则
