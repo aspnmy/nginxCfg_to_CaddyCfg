@@ -1,5 +1,5 @@
 # 构建阶段
-FROM python:3.13-slim as builder
+FROM python:3.13-slim AS builder
 
 WORKDIR /app
 COPY requirements.txt .
